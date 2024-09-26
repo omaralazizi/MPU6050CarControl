@@ -3,7 +3,6 @@
 #ifndef _CarMotors_CONFIG_H_
 #define _CarMotors_CONFIG_H_
 
-//OUT1 IS POSTIVE
 
 #define ENA_PORT DIO_PORTD
 #define ENB_PORT DIO_PORTD
