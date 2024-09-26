@@ -45,7 +45,7 @@ int main(void) {
 		LCD_u8SetPosXY(1, 0);
 		LCD_u8SendString("SPEED:");
 		
-	   pitch_degree = 90, yaw_degree = 0;
+	  // pitch_degree = 90, yaw_degree = 0;  testing...
 	
 		
 		// Forward/Backward and Turning
